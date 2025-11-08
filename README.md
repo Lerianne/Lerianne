@@ -1,4 +1,4 @@
-<h1 align="center">Hi 🤝 I'm Léanne Ricard</h1>
+<h1 align="center">Hi 🤝 I'm Léanne</h1>
 
 # 💫 About Me:
 I am a Software Engineering student at McGill University with a minor in Management, driven by a passion for sustainability, data analysis, and building innovative solutions through technology.
