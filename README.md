@@ -1,14 +1,28 @@
 <h1 align="center">Hi 🤝 I'm Léanne</h1>
 
 # 💫 About Me:
-I am a Software Engineering student at McGill University with a minor in Management, driven by a passion for sustainability, data analysis, and building innovative solutions through technology.
+I'm a software engineering graduate from McGill University (minor in Sustainable Development, Leiden University) now pursuing a Master's in Sustainable Management and Technology at EPFL. I work at the intersection of climate, technology, and gender justice — building tools and writing analysis that push sustainability forward.
 
 ## 🚀 What I'm Up To
-🌱 Developing a sustainability social network to connect researchers, students, and organizations.<br>📊 Analyzing data using Python and R to extract insights and drive decision-making.<br>⚡ Working on high-performance applications, including a race strategy app for the McGill Formula Electric team.<br>👩‍💻 Currently refining my skills in web and app development and data science for impactful projects.
+🌍 Exploring climate & biodiversity diplomacy and tech policy ahead of COP17
+🌱 Built SusanHub, a sustainability network connecting researchers, students, and organizations (NSERC USRA-funded)
+✍️ Writing [Futureneutreal](https://futureneutreal.substack.com/), a Substack on sustainability and tech
+🤖 Former Solutions Architect intern at Botpress, working on internal tools & client support
+👩‍💻 Contributing to Femme & Earth as a Trends Specialist
+
+## 🏆 Projects
+🌲 [Forest Watch](https://forestwatch-ai.vercel.app/) — CNN-based deforestation detection model
+🎯 [Vocato](https://github.com/Lerianne/Vocato) — AI career coach agent, built summer 2026
+💻 [SEAM Website Rebuild](https://seam.mcgilleus.ca/) - Sustainability in Engineering at McGill Website
+♻️ Bloody Brilliant Solutions — circular economy startup, 2nd place nationally
+🌳 RoboHacks 2025 — reforestation-themed hackathon
+📊 [Las Pumas Costa Rica](https://github.com/Lerianne/WildlifeRefuge_project) — ecological data analysis
+🏙️ Leiden urban biodiversity consulting project
 
 
 ## 🌐 Connect with me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/leanne-ricard/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/leanne-ricard/)
+🔗 [Personal website](https://leanne-website.vercel.app/)
 
 # 💻 Tech Stack:
 Languages:
