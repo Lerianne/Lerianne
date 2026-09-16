@@ -4,20 +4,20 @@
 I'm a software engineering graduate from McGill University (minor in Sustainable Development, Leiden University) now pursuing a Master's in Sustainable Management and Technology at EPFL. I work at the intersection of climate, technology, and gender justice — building tools and writing analysis that push sustainability forward.
 
 ## 🚀 What I'm Up To
-🌍 Exploring climate & biodiversity diplomacy and tech policy ahead of COP17. \n
-🌱 Built SusanHub, a sustainability network connecting researchers, students, and organizations (NSERC USRA-funded). \n
-✍️ Writing [Futureneutreal](https://futureneutreal.substack.com/), a Substack on sustainability and tech. \n
-🤖 Former Solutions Architect intern at Botpress, working on internal tools & client support. \n
-👩‍💻 Contributing to Femme & Earth as a Trends Specialist. \n
+🌍 Exploring climate & biodiversity diplomacy and tech policy ahead of COP17 <br>
+🌱 Built SusanHub, a sustainability network connecting researchers, students, and organizations (NSERC USRA-funded) <br>
+✍️ Writing [Futureneutreal](https://futureneutreal.substack.com/), a Substack on sustainability and tech <br>
+🤖 Former Solutions Architect intern at Botpress, working on internal tools & client support <br>
+👩‍💻 Contributing to Femme & Earth as a Trends Specialist <br>
 
 ## 🏆 Projects
-🌲 [Forest Watch](https://forestwatch-ai.vercel.app/) — CNN-based deforestation detection model. \n
-🎯 [Vocato](https://github.com/Lerianne/Vocato) — AI career coach agent, built summer 2026. \n
-💻 [SEAM Website Rebuild](https://seam.mcgilleus.ca/) - Sustainability in Engineering at McGill Website. \n
-♻️ Bloody Brilliant Solutions — circular economy startup, 2nd place nationally. \n
-🌳 RoboHacks 2025 — reforestation-themed hackathon\n
-📊 [Las Pumas Costa Rica](https://github.com/Lerianne/WildlifeRefuge_project) — ecological data analysis\n
-🏙️ Leiden urban biodiversity consulting project. \n
+🌲 [Forest Watch](https://forestwatch-ai.vercel.app/) — CNN-based deforestation detection model <br>
+🎯 [Vocato](https://github.com/Lerianne/Vocato) — AI career coach agent, built summer 2026 <br>
+💻 [SEAM Website Rebuild](https://seam.mcgilleus.ca/) - Sustainability in Engineering at McGill Website <br>
+♻️ Bloody Brilliant Solutions — circular economy startup, 2nd place nationally <br>
+🌳 RoboHacks 2025 — reforestation-themed hackathon <br>
+📊 [Las Pumas Costa Rica](https://github.com/Lerianne/WildlifeRefuge_project) — ecological data analysis <br>
+🏙️ Leiden urban biodiversity consulting project <br>
 
 
 ## 🌐 Connect with me:
